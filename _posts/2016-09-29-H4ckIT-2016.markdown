@@ -1,19 +1,16 @@
 ---
 ---
 
-This is <span class="capsule">accent</span> a minimal, mobile friendly theme for <span class="capsule">Jekyll</span>
+<span class="capsule">Write-ups</span> for H4ckIT 2016 CTF by <span class="capsule">D2GSS Team</span>
 
-It features:
+H4ckIT 2016:
 
-1. Customizable [accent](http://ankitsultana.me/accent/documentation.html)
-2. Comments with Disqus
-3. [Permalinks](http://ankitsultana.me/accent/testing.html) for headers
-4. [Guest Posts](http://ankitsultana.me/accent/guest-posts.html)
-5. [Author's Page](http://ankitsultana.me/accent/about)
-6. Author's Profile Picture, Short Bio.
-7. Pagination using `jekyll-paginate`
-8. [Syntax Highlighting](http://ankitsultana.me/accent/documentation.html) for code
-9. [RSS Feed](http://ankitsultana.me/accent/feed.xml)
-10. [Google Analytics](http://ankitsultana.me/accent/documentation.html)
-11. A [404](http://ankitsultana.me/accent/404.html) page.
-12. Full Documentation on the [Demo](http://ankitsultana.me/accent) website.
+1. [Reverse Engineering](https://teamd2gss.github.io/Write-up/testing.html)
+2. [PPC](https://teamd2gss.github.io/Write-up/testing.html)
+3. [PWN](https://teamd2gss.github.io/Write-up/testing.html)
+4. [Web](https://teamd2gss.github.io/Write-up/testing.html)
+5. [Forensics](https://teamd2gss.github.io/Write-up/testing.html)
+6. [Crypto](https://teamd2gss.github.io/Write-up/testing.html)
+7. [Trivia](https://teamd2gss.github.io/Write-up/testing.html)
+8. [Misc.](https://teamd2gss.github.io/Write-up/testing.html)
+
