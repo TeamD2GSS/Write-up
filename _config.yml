@@ -1,10 +1,9 @@
 # User Settings | Edit there as per required
 
-#title: D2GSS
+title: TEAM D2GSS
 url: "https://teamd2gss.github.io"
 baseurl: "/Write-up"
 
- avatar: https://raw.githubusercontent.com/TeamD2GSS/Write-up/master/images/d2gss.png
 # This will show up at the top of index page
 site_heading: >
     D2GSS
@@ -23,8 +22,7 @@ copyright: D2GSS
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-
-  Team D2GSS is the rank 6 CTF team in the world, Soon this team will reach to the top.
+Team D2GSS is the rank 6 CTF team in the world, Soon this team will reach to the top.
 #   Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
 #    theme is that you can change the accent color. Refer the
 #    <a class="underline different-highlight" href="http://ankitsultana.me/accent/documentation.html">
@@ -42,7 +40,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Team D2GSS reaching to the top, now rank 6 CTF team in the world.
+    Keep this sentence less than 13 words or it won't look good.
 about_footer: true
 
 twitter_username: D2GSS
@@ -58,8 +56,8 @@ paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "images/d2gss.png" # This will show in facebook thumbnails
-twitter_image: "https://teamd2gss.github.io/images/d2gss.png?1234" # This will show in twitter cards
+og_image: "images/accent.png" # This will show in facebook thumbnails
+twitter_image: "http://ankitsultana.me/images/accent.png?1234" # This will show in twitter cards
 
 ####################################
 ####################################
