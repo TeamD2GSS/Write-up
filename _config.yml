@@ -40,7 +40,7 @@ comments: true
 # Note that about_footer should be true if you want
 # to see author information at the bottom of each post
 about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
+    Team D2GSS is on reching on the top, now rank 6 on global CTF charts.
 about_footer: true
 
 twitter_username: D2GSS
@@ -56,8 +56,8 @@ paginate_path: "/page/:num"
 tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
-og_image: "images/accent.png" # This will show in facebook thumbnails
-twitter_image: "http://ankitsultana.me/images/accent.png?1234" # This will show in twitter cards
+og_image: "images/d2gss" # This will show in facebook thumbnails
+twitter_image: "https://teamd2gss.github.io/d2gss.png?1234" # This will show in twitter cards
 
 ####################################
 ####################################
