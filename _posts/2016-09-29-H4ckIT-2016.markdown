@@ -1,7 +1,7 @@
 ---
 ---
 
-Writeup <span class="capsule">accent</span> for H4ckIT 2016 by <span class="capsule">D2GSS Team</span>
+<span class="capsule">Write-ups</span> for H4ckIT 2016 CTF by <span class="capsule">D2GSS Team</span>
 
 H4ckIT 2016:
 
