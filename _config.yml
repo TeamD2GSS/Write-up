@@ -30,9 +30,9 @@ short_bio: >
 #    </a>
 #    to know how.
 
-# permalink: /:title.html
-paginate: 1
-paginate_path: "/Write-up:1/"
+permalink: /:title.html
+#paginate: 1
+#paginate_path: "/Write-up:1/"
 # Comments are powered by disqus
 comments: true
 
