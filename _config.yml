@@ -30,7 +30,7 @@ short_bio: >
 #    </a>
 #    to know how.
 
-
+permalink: pretty
 permalink: /:29/:09/:2016/:H4ckIT-2016/
 #permalink: /:title.html
 #paginate: 1
