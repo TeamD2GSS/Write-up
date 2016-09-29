@@ -31,10 +31,10 @@ short_bio: >
 #    to know how.
 
 
-permalink: /:Write-up/H4ckIT-2016.html
+permalink: /:H4ckIT-2016.html
 #permalink: /:title.html
 #paginate: 1
-#paginate_path: "/Write-up:1/"
+paginate_path: "/Write-up:1/"
 # Comments are powered by disqus
 comments: true
 
