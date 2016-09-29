@@ -32,7 +32,7 @@ short_bio: >
 
 # permalink: /:title.html
 paginate: 1
-
+paginate_path: "/Write-up:1/"
 # Comments are powered by disqus
 comments: true
 
