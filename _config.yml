@@ -30,7 +30,8 @@ short_bio: >
 #    </a>
 #    to know how.
 
-permalink: /:title.html
+# permalink: /:title.html
+paginate: 1
 
 # Comments are powered by disqus
 comments: true
